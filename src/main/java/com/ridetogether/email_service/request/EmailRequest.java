@@ -1,4 +1,4 @@
-package request;
+package com.ridetogether.email_service.request;
 
 import lombok.Data;
 
